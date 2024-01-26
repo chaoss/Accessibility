@@ -1,6 +1,6 @@
 name: CHAOSS
 description: Please use this template ONLY when creating issues for CHAOSS.
-title: "[CHAOSS WEB?]: "
+title: "[CHAOSS WEB]: "
 assignees:
   - ''
 body:
@@ -28,7 +28,7 @@ body:
         - AA
         - AAA
   - type: textarea
-    id: basic description
+    id: basic-description
     attributes:
       label: Description
       description:  Please give a basic description of this issue according to WCAG.
