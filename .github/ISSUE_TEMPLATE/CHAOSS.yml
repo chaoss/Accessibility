@@ -9,7 +9,7 @@ body:
       value:
         Thanks for taking the time to fill this and make CHAOSS more accessible.
   - type: dropdown
-    id: WCAG Guideline
+    id: WCAG-Guideline
     attributes:
       label: Please state the WCAG Guideline this issue falls under.
       multiple: true
@@ -19,7 +19,7 @@ body:
         - Understandable
         - Robust
   - type: dropdown
-    id: WCAG Level
+    id: WCAG-Level
     attributes:
       label: Please state the WCAG Level this issue falls under.
       multiple: true
@@ -58,7 +58,7 @@ body:
     validations:
       required: false
   - type: dropdown
-    id: Next Steps
+    id: Next-Steps
     attributes:
       label: Who is the best person to correct this?
       multiple: true
