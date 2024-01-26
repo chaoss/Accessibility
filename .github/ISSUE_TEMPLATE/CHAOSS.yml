@@ -36,11 +36,6 @@ body:
       value: "Here's a description"
     validations:
       required: true
-body:
-  - type: markdown
-    attributes:
-      value: |
-        The part BELOW should be filled in by the accessibility tester.
   - type: textarea
     id: location
     attributes:
