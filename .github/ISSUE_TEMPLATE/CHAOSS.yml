@@ -1,14 +1,12 @@
 name: CHAOSS
 description: Please use this template ONLY when creating issues for CHAOSS.
 title: "[CHAOSS WEB?]: "
-labels: ''
-projects: ''
 assignees:
   - ''
 body:
   - type: markdown
     attributes:
-      value: |
+      value:
         Thanks for taking the time to fill this and make CHAOSS more accessible!
   - type: dropdown
     id: WCAG Guideline
