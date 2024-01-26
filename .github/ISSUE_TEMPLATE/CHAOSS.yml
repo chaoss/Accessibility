@@ -1,5 +1,5 @@
 name: CHAOSS
-description: Please use this template ONLY when creating issues for CHAOSS.
+description: Please use this template ONLY when creating accessibility issues found under CHAOSS Web, Android, or IOS versions.
 title: "[CHAOSS WEB]: "
 assignees:
   - ''
@@ -32,8 +32,7 @@ body:
     attributes:
       label: Description
       description:  Please give a basic description of this issue according to WCAG.
-      placeholder:  Eg. There is more than one way to locate a specific page in a website.
-      value: "Here's a description"
+      value: "There is more than one way to locate a specific page in a website."
     validations:
       required: true
   - type: textarea
@@ -41,7 +40,7 @@ body:
     attributes:
       label: Location
       description:  Please state where the above issue is LOCATED on the version of CHAOSS you are testing. Add a link if possible.
-      placeholder:  Eg. Homepage- About chaoss button.
+      placeholder:  Eg. Homepage- About CHAOSS button.
       value: "The location"
     validations:
       required: true
