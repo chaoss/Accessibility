@@ -1,0 +1,70 @@
+name: CHAOSS
+description: Please use this template ONLY when creating issues for CHAOSS.
+title: "[CHAOSS WEB?]: "
+labels: ''
+projects: ''
+assignees:
+  - ''
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill this and make CHAOSS more accessible!
+  - type: dropdown
+    id: WCAG Guideline
+    attributes:
+      label: Please state the WCAG Guideline this issue falls under.
+      multiple: true
+      options:
+        - Perceivable
+        - Operable
+        - Understandable
+        - Robust
+  - type: dropdown
+    id: WCAG Level
+    attributes:
+      label: Please state the WCAG Level this issue falls under.
+      multiple: true
+      options:
+        - A
+        - AA
+        - AAA
+  - type: textarea
+    id: basic description
+    attributes:
+      label: Description
+      description:  Please give a basic description of this issue according to WCAG.
+      placeholder:  Eg. There is more than one way to locate a specific page in a website.
+      value: "Here's a description"
+    validations:
+      required: true
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The part BELOW should be filled in by the accessibility tester.
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      description:  Please state where the above issue is LOCATED on the version of CHAOSS you are testing. Add a link if possible.
+      placeholder:  Eg. Homepage- About chaoss button.
+      value: "The location"
+    validations:
+      required: true
+  - type: textarea
+    id: Evaluation
+    attributes:
+      label: Your Evaluation
+      description: Please state your evaluation here.
+    validations:
+      required: false
+  - type: dropdown
+    id: Next Steps
+    attributes:
+      label: Who is the best person to correct this?
+      multiple: true
+      options:
+        - Developer
+        - Designer
+        - Content Team
