@@ -1,0 +1,61 @@
+name: DEI BADGING
+description: Please use this template ONLY when creating accessibility issues found under DEI Badging Web, Android, or IOS versions.
+title: "[DEI BADGING WEB]: "
+assignees:
+  - ''
+body:
+  - type: markdown
+    attributes:
+      value:
+        Thanks for taking the time to fill this and make DEI Badging more accessible.
+  - type: dropdown
+    id: WCAG-Guideline
+    attributes:
+      label: Please state the WCAG Guideline this issue falls under.
+      multiple: true
+      options:
+        - Perceivable
+        - Operable
+        - Understandable
+        - Robust
+  - type: dropdown
+    id: WCAG-Level
+    attributes:
+      label: Please state the WCAG Level this issue falls under.
+      multiple: true
+      options:
+        - A
+        - AA
+        - AAA
+  - type: textarea
+    id: basic-description
+    attributes:
+      label: Description
+      description:  Please give a basic description of this issue according to WCAG.
+      value: "There is more than one way to locate a specific page in a website."
+    validations:
+      required: true
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      description:  Please state where the above issue is LOCATED on the version of DEI Badging you are testing. Add a link if possible.
+      value: "Eg. Homepage- About DEI Badging button"
+    validations:
+      required: true
+  - type: textarea
+    id: Evaluation
+    attributes:
+      label: Your Evaluation
+      description: Please state your evaluation here.
+    validations:
+      required: false
+  - type: dropdown
+    id: Next-Steps
+    attributes:
+      label: Who is the best person to correct this?
+      multiple: true
+      options:
+        - Developer
+        - Designer
+        - Content Team
