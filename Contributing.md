@@ -1,11 +1,11 @@
 # CHAOSS Accessibility Contributing.md
 Welcome to CHAOSS Accessibilty! We're super excited to have you want to contribute to our project.
 
-## Introdcution
-We use the NVDA screen reader, Wave evaluation tool, Screen reader extension during this review. This testing follows the WCAG ""POUR"" guidelines found [here](https://www.w3.org/TR/WCAG/). Our aim is to achieve a WCAG 2.1 AA Level compliance with this audit.
+## Introduction
+We use the NVDA screen reader, Wave evaluation tool, Screen reader extension during this review. This testing follows the WCAG "POUR" guidelines found [here](https://www.w3.org/TR/WCAG/). Our aim is to achieve a WCAG 2.1 - AA Level compliance with this audit.
 
 ## How to contribute
-See the CHAOSS  [contributing.md]
+See the CHAOSS  [contributing.md](https://github.com/chaoss/Accessibility/blob/main/Contributing.md)
 
 ## Repository specific guidelines
 
