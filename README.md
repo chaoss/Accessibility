@@ -31,7 +31,7 @@ To contribute to this project, ensure to follow the guidelines found in our Cont
 **Project Managers/Maintainers**
 
 - [Busayo Ojo](https://github.com/Busayo-ojo)
-- [Peculiar Umeh](https://github.com/peculiaruc)
+- [Peculiar C. Umeh](https://github.com/peculiaruc)
 
 **Core Contributors**
 
