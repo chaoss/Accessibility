@@ -46,7 +46,7 @@ If you'd like to be a part of us, please go through our [issue list](https://git
 - [$99 - W3Cx: Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility?index=product&queryID=00e053e8a13cf6a46aff8a2199a7fcf8&position=1&results_level=first-level-results&term=accessibility&objectID=course-8ac6f7ff-0ff9-4894-a5f3-cc34fc5768fa&campaign=Introduction+to+Web+Accessibility&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
 - [ $179 - CurtinX: Disability and Digital Media: Accessibility, Representation and Inclusion](https://www.edx.org/learn/dei-diversity-equity-inclusion/curtin-university-disability-and-digital-media-accessibility-representation-and-inclusion?index=product&queryID=00e053e8a13cf6a46aff8a2199a7fcf8&position=2&results_level=first-level-results&term=accessibility&objectID=course-9a43b119-f4a6-4813-9151-7c228e458ef0&campaign=Disability+and+Digital+Media%3A+Accessibility%2C+Representation+and+Inclusion&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
 - [$49 - GTx: Information and Communication Technology (ICT) Accessibility](https://www.edx.org/learn/information-technology/the-georgia-institute-of-technology-information-and-communication-technology-ict-accessibility?index=product&queryID=a2ac3bef1f4c4b840ef9a45a19a4456b&position=4&linked_from=autocomplete&c=autocomplete)
-- [iOS App Development: Accessibility](https://www.linkedin.com/learning/ios-app-development-accessibility)
+- [Deque](https://www.deque.com/training/)
 
 ## License
 
