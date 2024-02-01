@@ -48,10 +48,6 @@ If you'd like to be a part of us, please go through our [issue list](https://git
 - [$49 - GTx: Information and Communication Technology (ICT) Accessibility](https://www.edx.org/learn/information-technology/the-georgia-institute-of-technology-information-and-communication-technology-ict-accessibility?index=product&queryID=a2ac3bef1f4c4b840ef9a45a19a4456b&position=4&linked_from=autocomplete&c=autocomplete)
 - [iOS App Development: Accessibility](https://www.linkedin.com/learning/ios-app-development-accessibility)
 
-**Free, No Certificate:**
-- [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891?irclickid=zh2XFDQz-xyPWwMS4jUTp3PGUkHw3AQhv1oISc0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_www_classcentral_com_&utm_content=&adid=788805)
-- [Learn Accessibility](https://web.dev/learn/accessibility/)
-
 ## License
 
 The documents in this repositories are released under the MIT License. See [LICENSE](https://github.com/chaoss/wg-diversity-inclusion/blob/master/LICENSE) for details.
