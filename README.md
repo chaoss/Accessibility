@@ -36,7 +36,7 @@ To contribute to this project, ensure to follow the guidelines found in our Cont
 **Core Contributors**
 
 - [Victoria Ottah](https://github.com/Toriasdesign)
-- [Yigakpoa Ikpae](https://github.com/Yigakpoa)
+- [Yigakpoa L. Ikpae](https://github.com/Yigakpoa)
 
 If you'd like to be a part of us, please go through our [issue list](https://github.com/chaoss/Accessibility/issues) & let's make the digital world more accessible for everyone! 
 
