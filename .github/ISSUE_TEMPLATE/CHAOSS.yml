@@ -49,7 +49,7 @@ body:
     attributes:
       label: Actual Result
       description:  Please state the actual result you got when running your checks on the version of CHAOSS you are testing. Add a link or screenshot if possible.
-      placeholder:  Eg. Very low contrast between text and background colors(2:1)
+      placeholder:  Eg. Very low contrast between text and background colors
     validations:
       required: true
   - type: textarea
