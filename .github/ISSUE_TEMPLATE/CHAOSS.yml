@@ -39,9 +39,17 @@ body:
     id: location
     attributes:
       label: Location
-      description:  Please state where the above issue is LOCATED on the version of CHAOSS you are testing. Add a link if possible.
+      description:  Please state where the above issue is LOCATED on the version of CHAOSS you are testing. Add a link or screenshot if possible.
       placeholder:  Eg. Homepage- About CHAOSS button.
       value: "The location"
+    validations:
+      required: true
+    - type: textarea
+    id: actual result
+    attributes:
+      label: Actual Result
+      description:  Please state the actual result you got when running your checks on the version of CHAOSS you are testing. Add a link or screenshot if possible.
+      placeholder:  Eg. Very low contrast between text and background colors(2:1)
     validations:
       required: true
   - type: textarea
