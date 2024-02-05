@@ -18,6 +18,14 @@ body:
         - Operable
         - Understandable
         - Robust
+  - type: textarea
+    id: more-guidelines
+    attributes:
+      label: More on Guidelines
+      description:  Please give more details on the above mentioned guideline. Eg. 1.1 Text Alternatives,[1.1.1:Non-Text Content](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html)
+      placeholder:  Add a link or screenshot if possible.
+    validations:
+      required: true
   - type: dropdown
     id: WCAG-Level
     attributes:
