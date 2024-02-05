@@ -45,7 +45,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: actual result
+    id: actual-result
     attributes:
       label: Actual Result
       description:  Please state the actual result you got when running your checks on the version of CHAOSS you are testing. Add a link or screenshot if possible.
