@@ -44,7 +44,7 @@ body:
       value: "The location"
     validations:
       required: true
-    - type: textarea
+  - type: textarea
     id: actual result
     attributes:
       label: Actual Result
