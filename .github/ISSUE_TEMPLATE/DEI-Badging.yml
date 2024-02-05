@@ -39,8 +39,16 @@ body:
     id: location
     attributes:
       label: Location
-      description:  Please state where the above issue is LOCATED on the version of DEI Badging you are testing. Add a link if possible.
+      description:  Please state where the above issue is LOCATED on the version of DEI Badging you are testing. Add a link or screenshot if possible.
       value: "Eg. Homepage- About DEI Badging button"
+    validations:
+      required: true
+  - type: textarea
+    id: actual-result
+    attributes:
+      label: Actual Result
+      description:  Please state the actual result you got when running your checks on the version of DEI you are testing. Add a link or screenshot if possible.
+      placeholder:  Eg. Very low contrast between text and background colors
     validations:
       required: true
   - type: textarea
