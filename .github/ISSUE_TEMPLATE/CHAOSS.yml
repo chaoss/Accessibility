@@ -76,3 +76,13 @@ body:
         - Developer
         - Designer
         - Content Team
+  - type: dropdown
+    id: A11y-Testers
+    attributes:
+      label: Who conducted this A11y test?
+      multiple: true
+      options:
+        - Victoria Ottah
+        - Yigakpoa Ikpae
+    validations:
+      required: true
