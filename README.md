@@ -28,12 +28,12 @@ To contribute to this project, ensure to follow the guidelines found in our Cont
 
 ## Contributors
 
-**Project Managers/Maintainers**
+**Project Managers**
 
 - [Busayo Ojo](https://github.com/Busayo-ojo)
 - [Gloriah Johnson](https://github.com/riahtgl)
 
-**Core Contributors**
+**Core Contributors/Maintainers**
 
 - [Victoria Ottah](https://github.com/Toriasdesign)
 - [Yigakpoa L. Ikpae](https://github.com/Yigakpoa)
